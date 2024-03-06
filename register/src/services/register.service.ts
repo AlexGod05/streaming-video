@@ -2,7 +2,6 @@ import { Request, Response } from "express";
 import { User } from "../interfaces/user.interface";
 import { ModelUserSchema } from "../models/user.model";
 import { HttpResponse } from "../utils/response";
-import { Model } from "mongoose";
 import { encrypt } from "../utils/bcrypt";
 
 /**
