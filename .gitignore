@@ -1,0 +1,39 @@
+# Dependencias
+node_modules/
+
+# Archivos compilados
+dist/
+
+# Archivos de configuración
+.env
+
+# Archivos de caché o compilación
+*.log
+*.log.*
+*.pid
+*.seed
+*.pid.lock
+*.log
+*.yml
+*.csv
+*.dat
+*.out
+*.pid
+*.log*
+*.vscode/
+.DS_Store
+Thumbs.db
+dist/
+.cache/
+.sass-cache/
+*.tmp
+*.sass-cache
+build/
+.nyc_output
+coverage/
+.nyc_output/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+src/**/*.js
+src/**/*.js.map
